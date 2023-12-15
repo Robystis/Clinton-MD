@@ -34,17 +34,18 @@ This is a highly customisable simple whatsapp bot with group management features
 
 You will need an openai API key for AI features to work.
 
-# SET-UP
+## SET-UP
+ 
 
 
+1. Fork this repo
+   Tap here 👇
+  <br>
+<a href="https://github.com/xhclintohn/Clinton-MD/fork"><img title="Clint-MD" src="https://img.shields.io/badge/FORK Clinton-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-- Fork this repo here
-  href="https://github.com/xhclintohn l/Clinton-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/xhclintohn/Clinton-MD?style=social"></a>
-<a (Don't forget to give a star)
+
 
 Linking/Pairing:
-
-
 
 
 ## ` Pair On reptil`
