@@ -51,6 +51,8 @@ You will need an openai API key for AI features to work.
 
 
 2. Link/Pair with WhatsApp
+
+
  <br>
 <a 
 href="https://replit.com/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
@@ -59,7 +61,6 @@ href="https://replit.com/"><img src="https://repl.it/badge/github/quiec/whatsase
 
 
 
-Alternatively, pair locally using the repo [Here](https://github.com/xhclintohn/Clinton-PAIRING)
 
     
 <h2 align="center">   
@@ -87,7 +88,13 @@ Alternatively, pair locally using the repo [Here](https://github.com/xhclintohn/
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254735342808) via WhatsApp or [here](xhclintohn@gmail.com@gmail.com) via Email.
+Incase of any issues, Contact me
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰 Clinton 🥰"><img src="https://img.shields.io/badge/Contact Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
