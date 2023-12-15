@@ -50,6 +50,9 @@ You will need an openai API key for AI features to work.
 
 
 
+
+
+
 2. Link/Pair with WhatsApp
 
 
