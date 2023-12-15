@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of crown MD Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of Clinton MD Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
