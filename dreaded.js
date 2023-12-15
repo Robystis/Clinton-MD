@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'CROWN AI';
+const botname = process.env.BOTNAME || 'Clinton MD';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -80,9 +80,9 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏';
-    const packname = process.env.STICKER_PACKNAME || 'crown';
-const dev = process.env.DEV || '923195832822'
+    const author = process.env.STICKER_AUTHOR ||'Clint™𝕏';
+    const packname = process.env.STICKER_PACKNAME || 'clint';
+const dev = process.env.DEV || '254735342808'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -101,9 +101,9 @@ const menu = process.env.MENU_TYPE || 'VIDEO';
 const admin = process.env.ADMIN_MSG || '𝐅𝐚𝐢𝐥𝐮𝐫𝐞!, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐭𝐨𝐨 𝐲𝐨𝐮𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐭𝐡𝐚𝐭🦄';
     const group = process.env.GROUP_ONLY_MSG || 'Is this a group chat?';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐅**𝐤 𝐲𝐨𝐮 🦄𝐚𝐦 𝐚𝐧 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧'
-    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏';
+    const NotOwner = process.env.NOT_OWNER_MSG || 'Lol you are not 𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝕏';
 const wapresence = process.env.WA_PRESENCE || 'recording';
-const antilink = process.env.ANTILINK || 'TRUE';
+const antilink = process.env.ANTILINK || 'FALSE';
 const antilinkall = process.env.ANTILINK_ALL || 'FALSE';
 
 const runtime = function (seconds) { 
@@ -191,7 +191,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐂𝐑𝐎𝐖𝐍-𝐀𝐈\x20an',
+        '𝑪𝒍𝒊𝒏𝒕𝒐𝒏-𝐀𝐈\x20an',
         '376590puyzhN',
         'key'
     ];
@@ -322,7 +322,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ CROWN-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ 𝑪𝒍𝒊𝒏𝒕𝒐𝒏-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -339,9 +339,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
+let cap = `╭════〘 *_𝑪𝒍𝒊𝒏𝒕𝒐𝒏 MD_* 〙═⊷❍
 ┃✯╭──────────────
-┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏_*
+┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : 𝑪𝒍𝒊𝒏𝒕𝒐𝒏𝕏_*
 ┃✯│ *_𝐔𝐬𝐞𝐫 : ${m.pushName}_*
 ┃✯│ *_𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃✯│ *_𝐒𝐩𝐞𝐞𝐝 : ${dreadedspeed.toFixed(4)} 𝐦𝐬_*
@@ -352,7 +352,7 @@ let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ┃✯│
 ┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃✯│▎▍▌▌▉▏▎▌▉▐▏▌
-┃✯│  𝐓𝐡𝐞𝐞 𝐂𝐫𝐨𝐰𝐧 
+┃✯│ 
 ┃✯│
 ┃╰─────
 ╰─────────────────❍
@@ -417,7 +417,7 @@ let cap = `╭════〘 *_𝐂𝐑𝐎𝐖𝐍 𝐁𝐎𝐓_* 〙═⊷❍
 ╭═══〘 *_𝐎𝐓𝐇𝐄𝐑𝐒_* 〙══⊷❍
 ▯╭─────────────···▸
 ┃✯│ *_𝐎𝐰𝐧𝐞𝐫_*
-┃✯│ *_𝐒𝐢𝐫𝐦_*
+┃✯│ *_𝑪𝒍𝒊𝒏𝒕𝒐𝒏_*
 ┃✯│ *_𝐒𝐜𝐫𝐢𝐩𝐭_*
 ┃✯│ *_𝐌𝐞𝐧𝐮_*
 ┃✯│ *_𝐋𝐢𝐬𝐭_*
