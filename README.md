@@ -15,8 +15,14 @@
 <p align="center">
 <a href="'https://wa.me/254735342808ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+Clinton+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/254735342808ʜᴇʟʟᴏ+Clinton +uko+na+update+ya+Clinton+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254735342808ʜᴇʟʟᴏ+Clinton"> src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/xhclintohn/Clinton-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/xhclintohn/Clinton-MD?color=yellow&style=flat-square"></a>
+## ```Contact Me 💌``` 
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰 Clinton 🥰"><img src="https://img.shields.io/badge/Contact Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+ href="https://github.com/xhclintohn/Clinton-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/xhclintohn/Clinton-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/Clinton-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xhclintohn/Clinton-MD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/xhclintohn/Clinton-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
