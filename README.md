@@ -49,16 +49,15 @@ You will need an openai API key for AI features to work.
 
 
 
-Linking/Pairing:
 
-
-
-
-
-## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@njaisirm1/Crown-Pairing-v6"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+2. Link/Pair with WhatsApp
+ <br>
+<a 
+href="https://replit.com/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
+
+
 
 Alternatively, pair locally using the repo [Here](https://github.com/xhclintohn/Clinton-PAIRING)
 
