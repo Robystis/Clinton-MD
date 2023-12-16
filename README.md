@@ -59,9 +59,10 @@ You will need an openai API key for AI features to work.
 
  <br>
 <a 
-href="https://replit.com/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@njaisirm1/Crown-Pairing-v6"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
+
 
 
 
